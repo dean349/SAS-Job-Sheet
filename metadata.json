@@ -1,0 +1,6 @@
+{
+  "name": "PortMiami to FLL 11-22 — Chauffeur Dispatch Manifest",
+  "description": "Mobile-first chauffeur dispatch manifest for PortMiami to FLL and hotel transfers with tap-to-call, pre-filled dockside SMS templates, terminal filters, and live cash tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
